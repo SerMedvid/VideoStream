@@ -4,3 +4,4 @@ rtmpserver/.idea
 rtmpserver/node_node_modules
 client/.idea
 client/node_modules
+.idea
