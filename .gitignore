@@ -1,7 +1,7 @@
 api/.idea
 api/node_modules
 rtmpserver/.idea
-rtmpserver/node_node_modules
+rtmpserver/node_modules
 client/.idea
 client/node_modules
 .idea
